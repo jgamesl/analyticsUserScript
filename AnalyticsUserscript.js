@@ -12,7 +12,6 @@
 (function() {
     'use strict';
     let titles = document.querySelectorAll('.title');
-    console.log(titles);
     titles.forEach((element, index) => {
        const numberString = `${index}`.padStart(2, '0');
        element.textContent = `EVENT - INTERVIEW - ${numberString}`;
