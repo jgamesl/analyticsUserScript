@@ -2,8 +2,8 @@
 // @name         Trakken Interview
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       Me
+// @description  Modifiy interviewpage!
+// @author       Jorge Gámez
 // @match        https://www.analytics-summit.de/interviews/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
